@@ -9,9 +9,11 @@ Please visit the ADX portal [here](https://adxplatform.org) (di2e account requir
 * [The Container Coloring Book (PDF)](https://raw.githubusercontent.com/fedoradesign/coloringbook-containers/master/Print-Ready/Web.pdf)
 * [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 * [Docker Installation Guide](https://docs.docker.com/engine/installation/)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 ## Kubernetes (k8s)
 * [Childrens Guide to Kubernetes (YouTube)](https://www.youtube.com/watch?v=4ht22ReBjno)
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Julia Evans Kubernetes 'zines](https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/)
 * [Joe Beda (co-founder) hosts a weekly interactive k8s webcast every friday](https://www.youtube.com/watch?v=9YYeE-bMWv8)
 * [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)
