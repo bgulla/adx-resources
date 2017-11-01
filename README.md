@@ -32,4 +32,4 @@ Please visit the ADX portal [here](https://adxplatform.org) (di2e account requir
 
 
 ## More info
-Found another article that you found helpful? Have more questions about ADX? Email [info@adxplatform.org](mailto:info@adxplatform.org)
+Found another article that you found helpful? Sumbit a pull-request!  Have more questions about ADX? Email [info@adxplatform.org](mailto:info@adxplatform.org)
