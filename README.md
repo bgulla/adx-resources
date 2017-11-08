@@ -6,6 +6,7 @@ Please visit the ADX portal [here](https://adxplatform.org) (di2e account requir
 
 ## Docker
 * [What is a container? (YouTube)](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
+* [Docker Development Best Practices](https://github.com/FuriKuri/docker-best-practices)
 * [The Container Coloring Book (PDF)](https://raw.githubusercontent.com/fedoradesign/coloringbook-containers/master/Print-Ready/Web.pdf)
 * [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 * [Docker Installation Guide](https://docs.docker.com/engine/installation/)
