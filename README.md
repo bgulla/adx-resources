@@ -24,6 +24,7 @@ Please visit the ADX portal [here](https://adxplatform.org) (di2e account requir
 * [Kubernetes in Production](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
 * [15 k8s features in 15 minutes](https://www.youtube.com/watch?v=o85VR90RGNQ)
+* [Kubernetes Explained (Cartoon)](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
 
 ## OpenShift
 * [Openshift Interactive Tutorials](https://learn.openshift.com/)
