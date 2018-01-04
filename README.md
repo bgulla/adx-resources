@@ -4,7 +4,7 @@
 
 ## ADX
 Please visit the ADX portal [here](https://adxplatform.org) (di2e account required). 
-* [ADX Docs](https://documentation.adx.dicelab.net/)
+* [ADX Tenant Documentation](https://documentation.adx.dicelab.net/docs/tenant/home/)
 
 ## Docker
 * [What is a container? (YouTube)](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
