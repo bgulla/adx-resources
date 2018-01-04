@@ -1,8 +1,10 @@
 # ADX / Kubernetes / Docker / OpenShift | Resources 
 ![logo](https://adxplatform.org/assets/images/ADX_logo_white_final.png)
 
+
 ## ADX
 Please visit the ADX portal [here](https://adxplatform.org) (di2e account required). 
+* [ADX Docs](https://documentation.adx.dicelab.net/)
 
 ## Docker
 * [What is a container? (YouTube)](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
