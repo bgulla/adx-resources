@@ -29,6 +29,7 @@ Please visit the ADX portal [here](https://adxplatform.org) (di2e account requir
 * [Kubernetes Explained (Cartoon)](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
 
 ## OpenShift
+* [Start Here - Getting Started Guide](https://docs.openshift.com/online/getting_started/basic_walkthrough.html)
 * [Openshift Interactive Tutorials](https://learn.openshift.com/)
 * [OpenShift 3 Walkthrough](https://www.youtube.com/watch?v=yFPYGeKwmpk)
 * [Setting up MiniKube for local adx/k8s development](https://kubernetes.io/docs/getting-started-guides/minikube/)
