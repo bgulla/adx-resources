@@ -7,7 +7,7 @@ Please visit the ADX portal [here](https://adxplatform.org) (di2e account requir
 * [ADX Tenant Documentation](https://documentation.adx.dicelab.net/docs/tenant/home/)
 
 ## Free OpenShift eBooks
-* [https://www.openshift.com/promotions/devops-with-openshift.html])(DevOps with OpenShift)
+* [https://www.openshift.com/promotions/devops-with-openshift.html](DevOps with OpenShift)
 * [https://www.openshift.com/promotions/for-developers.html](OpenShift for Developers)
 
 ## Docker
