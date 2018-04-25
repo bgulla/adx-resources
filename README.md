@@ -6,6 +6,9 @@
 Please visit the ADX portal [here](https://adxplatform.org) (di2e account required). 
 * [ADX Tenant Documentation](https://documentation.adx.dicelab.net/docs/tenant/home/)
 
+## Microservice Design
+* [Breaking up the Monolith](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+
 ## Free OpenShift eBooks
 * [DevOps with OpenShift](https://www.openshift.com/promotions/devops-with-openshift.html)
 * [OpenShift for Developers](https://www.openshift.com/promotions/for-developers.html)
